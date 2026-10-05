@@ -1,0 +1,16 @@
+{
+    "name": "M320.Singletons.Editor",
+    "rootNamespace": "M320.Singletons.Editor",
+    "references": [
+        "GUID:c79bea3710f71e24e96b2b08224861d1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

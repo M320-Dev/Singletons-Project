@@ -1,0 +1,9 @@
+{
+  "name": "com.m320.singletons",
+  "version": "2.0.0",
+  "displayName": "Singletons",
+  "description": "A Unity package providing reusable singleton abstractions for MonoBehaviours, ScriptableObjects, and plain C# classes, with initialization diagnostics, optional scene persistence, and bootstrap scene support.",
+    "author": {
+    "name": "M_320"
+  }
+}
